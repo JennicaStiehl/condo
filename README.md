@@ -52,5 +52,4 @@ pry(main)> a.add_owner(sharon)
 Create a class called HomeOwnersAssociation that does the following:
 1. collects dues from all customers
 2. calculates revenue, year over year
-3. can list the revenue from each building
-4. can list who has not paid for the previous month
+3. can list the revenue from each month
